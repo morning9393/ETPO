@@ -1,5 +1,5 @@
 # Entropy-Regularized Token-Level Policy Optimization (ETPO)
-This is the **official implementation** of ETPO (https://arxiv.org/abs/2402.06700), an entropy-augmented RL method tailored for optimizing LLMs at the token level, improving LLMs' sequential decision-making ability. This repo currently supports data science code generation tasks, broader tasks will be added soon.
+This is the **official implementation** of ETPO (https://arxiv.org/abs/2402.06700), an entropy-augmented RL method tailored for optimizing LLMs at the token level, improving LLMs' sequential decision-making ability. This repo currently supports data science code generation tasks with sklearn module, broader tasks will be added soon.
 
 
 ## To Run:
